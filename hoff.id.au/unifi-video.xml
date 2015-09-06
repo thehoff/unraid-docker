@@ -7,9 +7,9 @@
   <Description>
     UniFi Video Controller
   </Description>
-  <Registry></Registry>
+  <Registry>.</Registry>
   <GitHub>https://github.com/rednut/docker-unifi-video-controller</GitHub>
-  <Repository>rednut/docker-unifi-video-controller</Repository>
+  <Repository>.</Repository>
   <Support>.</Support>
   <BindTime>true</BindTime>
   <Privileged>true</Privileged>
